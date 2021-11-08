@@ -1,3 +1,10 @@
+# gobarber_backend
+Backend for the GoBarber project
+
+GoBarber is a platform for barbershop owners. Barbers set up opening hours, and users schedule appointments.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
